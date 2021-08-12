@@ -1,2 +1,3 @@
 # senai-versoes-colaboracoes
-readme teste
+Readme teste
+Lembrei do comando: git status
