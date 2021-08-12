@@ -1,2 +1,3 @@
 # senai-versoes-colaboracoes
-readme teste
+Readme teste<br>
+Lembrei do comando: git commit
